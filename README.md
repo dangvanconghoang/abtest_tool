@@ -1,6 +1,3 @@
-
-This repo is only used to supplement the portfolio for the master application.
-
 Experiment AB Testing Framework
 This repository is a fork of an existing AB Testing Framework (expan), customized for internal use with additional features and improvements. The tool is designed to handle AB test executions, statistical analyses, and results generation with support for multiple metrics and hypothesis corrections.
 
